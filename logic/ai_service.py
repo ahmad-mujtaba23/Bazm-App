@@ -4,7 +4,7 @@ from data.database import fetch_all
 
 # ==========================================
 # PASTE YOUR API KEY HERE
-API_KEY = "Insert API key here"
+API_KEY = "Insert Your API Key Here"
 # ==========================================
 
 class AIService:
